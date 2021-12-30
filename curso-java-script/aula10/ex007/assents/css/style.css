@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(243, 213, 157);
+    color: rgb(28, 28, 212);
+    font: normal 20pt Arial;
+}
+
+input {
+    width: 100px;
+    
+}
